@@ -1,1 +1,3 @@
-# easierchef-node-test
+### Steps to run
+
+1. docker-compose up
